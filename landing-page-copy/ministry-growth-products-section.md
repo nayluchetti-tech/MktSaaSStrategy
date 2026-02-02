@@ -164,3 +164,75 @@ Go from sermon to screen in record time. PRAY Production Studio gives your team 
 | 1 | PRAY Production Studio | "Struggling to keep up with content?" | "Produce more. Stress less." | "Book a Studio Demo" |
 | 2 | SuperFunnel | "Lots of listeners, few donors?" | "Turn engagement into generosity." | "Get Your Funnel Audit" |
 | 3 | AI Counselor | "Can't disciple everyone who needs you?" | "Pastoral care that never sleeps." | "See It Live" |
+
+---
+
+# PRAY.com General Taglines & CTAs
+
+## Platform Taglines
+
+**Mission-Focused:**
+- "Connecting faith, hope, and impact—at scale."
+- "The platform built for ministry growth."
+- "Reach more. Disciple deeper. Grow sustainably."
+- "Where ministries grow."
+
+**Problem-Solving:**
+- "We solve ministry growth problems."
+- "Your growth partner in faith."
+- "Stop struggling. Start scaling."
+- "The growth engine for modern ministries."
+
+**Trust & Authority:**
+- "Trusted by ministries reaching millions."
+- "20M+ believers. One platform."
+- "The world's #1 faith media platform."
+- "Built for ministry. Backed by results."
+
+**Outcome-Driven:**
+- "3× the reach. ¼ the cost. Real impact."
+- "From sermon to supporter—seamlessly."
+- "Reach farther. Work smarter. Prove impact."
+- "More reach. More engagement. More giving."
+
+---
+
+## General CTAs (Book Meeting)
+
+**Direct & Action-Oriented:**
+- "Book a Call"
+- "Schedule a Demo"
+- "Talk to Our Team"
+- "Let's Talk Growth"
+- "Book Your Strategy Session"
+
+**Value-First:**
+- "Get a Free Growth Audit"
+- "See How Ministries Grow"
+- "Discover Your Growth Plan"
+- "Get Your Custom Demo"
+
+**Low-Friction:**
+- "Learn How It Works"
+- "See PRAY in Action"
+- "Explore the Platform"
+- "Watch a Quick Demo"
+
+**Urgency/Challenge:**
+- "Solve Your Growth Problem"
+- "Start Growing Today"
+- "See What You're Missing"
+- "Unlock Your Ministry's Potential"
+
+---
+
+## Recommended Pairings
+
+| Tagline | CTA |
+|---------|-----|
+| "We solve ministry growth problems." | "Book a Call" |
+| "The platform built for ministry growth." | "Schedule a Demo" |
+| "Reach more. Disciple deeper. Grow sustainably." | "Let's Talk Growth" |
+| "3× the reach. ¼ the cost. Real impact." | "Get a Free Growth Audit" |
+| "Trusted by ministries reaching millions." | "See How It Works" |
+| "Where ministries grow." | "Talk to Our Team" |
